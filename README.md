@@ -24,6 +24,16 @@ Once given, InsultRon will share a Swanson quote
 
 ### About the Insults
 
-Like I said, this project is a just-for-laughs project I built to add to a server I share with close friends.
+As I meantioned, this project is a just-for-laughs project I built to add to a server I share with close friends.
 
 InsultRon's insults come from various movies, shows, and pop culture. His bite-sized pieces of sage wisdom come from Parks and Rec.
+
+#### Resources:
+
+I dug through a lot of docs and blog posts to build this bot.
+
+[A Discord Bot and JavaScript Timing Events](https://cademirci.com/a-discord-bot-and-javascript-timing-events)
+
+[JavaScript Discord Bot Tutorial](https://www.devdungeon.com/content/javascript-discord-bot-tutorial#posting_an_image_or_file_to_channel)
+
+⭐ [Discord Bots - Sending Gifs](https://www.youtube.com/watch?v=9P1rB2MY4ZA) - Coding Train
